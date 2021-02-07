@@ -5,3 +5,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/109035259][422_unix平台压缩处理小结]]
 ** exif处理
 - [[https://greyzhang.blog.csdn.net/article/details/109061169][423_利用exif获取照片exif属性]]
+** 进程查看
+- [[https://greyzhang.blog.csdn.net/article/details/113749377][510_ps命令小结]]
