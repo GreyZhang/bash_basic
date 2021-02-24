@@ -7,3 +7,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/109061169][423_利用exif获取照片exif属性]]
 ** 进程查看
 - [[https://greyzhang.blog.csdn.net/article/details/113749377][510_ps命令小结]]
+** 磁盘信息查看 
+- [[https://greyzhang.blog.csdn.net/article/details/114041477][545_linux命令行环境查看磁盘以及磁盘使用空间]]
