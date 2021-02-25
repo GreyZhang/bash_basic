@@ -9,3 +9,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113749377][510_ps命令小结]]
 ** 磁盘信息查看 
 - [[https://greyzhang.blog.csdn.net/article/details/114041477][545_linux命令行环境查看磁盘以及磁盘使用空间]]
+** 磁盘的挂载以及卸载
+- [[https://greyzhang.blog.csdn.net/article/details/114108567][548_linux存储设备的挂载以及卸载]]
