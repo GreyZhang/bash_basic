@@ -15,3 +15,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114155596][551_更为直观的top命令htop]]
 ** CPU信息查看
 - [[https://greyzhang.blog.csdn.net/article/details/114155705][552_lscpu对比树莓派与玩客云的CPU]]
+** 文件夹磁盘占用空间查看
+- [[https://greyzhang.blog.csdn.net/article/details/114228874][555_linux命令行中查看文件夹占用的空间大小]]
