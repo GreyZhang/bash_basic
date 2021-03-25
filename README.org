@@ -17,3 +17,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114155705][552_lscpu对比树莓派与玩客云的CPU]]
 ** 文件夹磁盘占用空间查看
 - [[https://greyzhang.blog.csdn.net/article/details/114228874][555_linux命令行中查看文件夹占用的空间大小]]
+** 周期性调用显示信息
+- [[https://greyzhang.blog.csdn.net/article/details/115219317][574_watch命令的使用]]
