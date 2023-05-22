@@ -21,3 +21,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/115219317][574_watch命令的使用]]
 ** 文件的批量处理
 - [[https://blog.csdn.net/grey_csdn/article/details/130231152][1682_尝试写一个shell(做个努力的小菜鸟]]
+** 其他笔记
+- [[https://blog.csdn.net/grey_csdn/article/details/130812930][1718_Linux命令模式下查看日历]]
